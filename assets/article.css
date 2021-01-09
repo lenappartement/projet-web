@@ -59,6 +59,11 @@ input
   font-style: italic;
 }
 
+::placeholder
+{
+  color: #E0BECE;
+}
+
 h2
 {
   text-decoration: underline;

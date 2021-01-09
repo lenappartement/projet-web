@@ -59,6 +59,12 @@ input
   font-style: italic;
 }
 
+::placeholder
+{
+  color: #E0BECE;
+}
+
+
 section
 {
   background-color: white;
