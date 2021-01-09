@@ -1,0 +1,105 @@
+body
+{
+  margin: auto;
+  max-width: 60rem;
+  background-size: cover;
+  background-position: center;
+  background-image: url("images/leaf-font.jpeg");
+}
+
+header img
+{
+  width: 15%;
+  align-self:flex-start;
+}
+
+header
+{
+  display: flex;
+  background-color: white;
+}
+
+.nav
+{
+  align-items: center;
+
+}
+
+h1
+{
+  font-style: italic;
+  text-align: center;
+}
+
+header a
+{
+  color: #E0BECE;
+  text-decoration: none;
+}
+
+li img
+{
+  width: 10%;
+}
+
+header li
+{
+  font-size: 1.5rem;
+  font-style: italic;
+  display: inline-flex;
+  padding: 10px;
+}
+
+input
+{
+  background-color: white;
+  color: #E0BECE;
+  border-style: hidden;
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+section
+{
+  background-color: white;
+  align-self: center;
+  text-align: center;
+}
+
+section img
+{
+  width: 20%;
+}
+
+strong
+{
+  text-decoration: underline;
+  font-weight: bolder;
+}
+
+em
+{
+  font-style: oblique;
+  font-weight: bold;
+}
+footer
+{
+position: absolute;
+bottom: 0;
+width:100%;
+padding-top:50px;
+height:50px;
+
+}
+
+footer li
+{
+  display: inline-flex;
+  color: black;
+}
+
+footer a
+{
+  text-decoration: none;
+  color: black;
+}
